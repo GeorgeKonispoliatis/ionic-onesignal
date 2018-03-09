@@ -38,7 +38,7 @@ use <code>$ ionic serve</code> to just run the app for a browser preview
 
 or
 
-use <code>$ ionic serve --lab</code> to run the app in a browser on muliple platforms at the same time.
+use <code>$ ionic serve --lab</code> to run the app in a browser on multiple platforms at the same time.
 <h3>Add a platform</h3>
 
 <pre>$ ionic platform add <span><</span>platform<span>></span></pre>
